@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const content = document.getElementById("content");
     const typedText = document.getElementById("typed-text");
 
-    const correctCode = "123456"; // Set your static code here
+    const correctCode = "102724"; // Set your static code here
     const message = 
 `Hey <span style="color: red;">love</span>,\n\n
 Happy Valentine’s Day! I apologize for being late but I just wanted to take a moment to tell you how much I appreciate you—not just today, but every single day.
@@ -84,7 +84,7 @@ Forever yours, \n\n
                         typingSound.currentTime = 0; // Restart sound
                         typingSound.play();
     
-                        let delay = 1000; // Default typing speed
+                        let delay = 100; // Default typing speed
                         if (char === ".") delay = 2000; // 2s delay for periods
                         else if (char === ",") delay = 600; // 1s delay for commas
                         else if (char === "-") delay = 600;
