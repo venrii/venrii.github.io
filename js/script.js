@@ -26,7 +26,7 @@ Forever yours, \n\n
 <span style="color: purple;">Venri</span>`;
     
     const typingSound = new Audio("sfx/typewriter.mp3"); // Load typing sound
-    typingSound.volume = 0.1; // Adjust volume if necessary
+    typingSound.volume = 0.05; // Adjust volume if necessary
 
     function checkCode() {
         if (codeInput.value === correctCode) {
