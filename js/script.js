@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const message = 
 `Hey <span style="color: red;">Thea</span>,\n\n Happy Valentine’s Day! 
 I wanted to tell you how much I appreciate you so here's a website I quickly made! 
-Honestly, I’m glad for you every day, but today is a good excuse to actually say it. 
+Honestly, I’m grateful for you every day, but today is a good excuse to tell you my appreciation towards you. 
 Looking back at how we met, I just added you in <span style="color: lightblue;">Mic Up</span> and we eventually got in touch again in <span style="color: lightgreen;">Evade</span>, it's pretty silly honestly. 
 But being completely honest, I have no clue how I managed to get to this point and let's just say I'm glad it did. 
 Remembering the time you <span style="color: brown;">messed up cooking Adobo</span> while I was quite literally telling you that you didn't need to put salt was one of my earliest and funniest memories with you. 
